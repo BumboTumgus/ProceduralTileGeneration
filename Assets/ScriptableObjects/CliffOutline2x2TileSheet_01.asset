@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2220fac3b19c3c54f9a9a76205068a4d, type: 3}
+  m_Name: CliffOutline2x2TileSheet_01
+  m_EditorClassIdentifier: 
+  CellTileHeight: 1
+  Cell2x2TileBases:
+  - TileBase2x2:
+    - {fileID: 11400000, guid: f6cc1f4e39cf8a14fabeef0e5cd77fd2, type: 2}
+    - {fileID: 11400000, guid: b1a9d0fd9fbf5824584d46b9dc4deab4, type: 2}
+    - {fileID: 11400000, guid: b5315475995729d4c82219994516cc00, type: 2}
+    - {fileID: 11400000, guid: 61cbaa1af41fbcf4a95cc6558c2e38df, type: 2}
+  - TileBase2x2:
+    - {fileID: 11400000, guid: 47014e27f07b758468b1d6e52ce87809, type: 2}
+    - {fileID: 11400000, guid: 306f983503aa86c40918e4a6881f0090, type: 2}
+    - {fileID: 11400000, guid: 16dccf953c1bf384ab277a1dd13afe62, type: 2}
+    - {fileID: 11400000, guid: af2bb743dc9f8c34d9d13c513f0690ef, type: 2}
+  - TileBase2x2:
+    - {fileID: 11400000, guid: 401c9b5890da3a347a67fed855e61cc1, type: 2}
+    - {fileID: 11400000, guid: 7f90f65b16579dc46a75d796da3a0c82, type: 2}
+    - {fileID: 11400000, guid: f414b424101c5a2459ee2ef68510f88b, type: 2}
+    - {fileID: 11400000, guid: 905e03db57df2294995398fa15273911, type: 2}
+  - TileBase2x2:
+    - {fileID: 11400000, guid: 9ea3d5df7bd983c4d92a622bb470456e, type: 2}
+    - {fileID: 11400000, guid: 0cf857dbf2ec8844c895fef244829cd3, type: 2}
+    - {fileID: 11400000, guid: 2824de56194cae44fad1f54aee17b404, type: 2}
+    - {fileID: 11400000, guid: 2ff6ebc98c753fc4d8b4c46a7042bf41, type: 2}

@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2220fac3b19c3c54f9a9a76205068a4d, type: 3}
+  m_Name: LowGrassOutline2x2TileSheet_01
+  m_EditorClassIdentifier: 
+  CellTileHeight: 1
+  Cell2x2TileBases:
+  - WeightedRandomChance: 1
+    TileBase2x2:
+    - {fileID: 11400000, guid: 036213eb802e94c4482170e4dc4c4694, type: 2}
+    - {fileID: 11400000, guid: 79fdc8a78629bb44b8b6d2b8119398a3, type: 2}
+    - {fileID: 11400000, guid: 11b1bb42a7396174ab113f4e564b8d17, type: 2}
+    - {fileID: 11400000, guid: 5fca05ef25127cc4886b83a6f274d846, type: 2}
+  - WeightedRandomChance: 1
+    TileBase2x2:
+    - {fileID: 11400000, guid: b0ff1a7ab2851d24282ef8b05b47c8f3, type: 2}
+    - {fileID: 11400000, guid: 5fd2d5e4146472240b70faf0ff0754ab, type: 2}
+    - {fileID: 11400000, guid: 727e608d5ec8f404394cfe74f93b6d49, type: 2}
+    - {fileID: 11400000, guid: 7cd98fd696d8d90438b65ec7f8143e4b, type: 2}
+  - WeightedRandomChance: 1
+    TileBase2x2:
+    - {fileID: 11400000, guid: 3974779de53a60245923594a22e57b9f, type: 2}
+    - {fileID: 11400000, guid: ac26e6c54150c1d4c95e2e22f22907af, type: 2}
+    - {fileID: 11400000, guid: 1f30b1e95321f4a4d9e042ae6cf2d718, type: 2}
+    - {fileID: 11400000, guid: 253116b6a3736544a9f085267a117690, type: 2}
+  - WeightedRandomChance: 1
+    TileBase2x2:
+    - {fileID: 11400000, guid: cf5c8b6a7c9204c43990641786433561, type: 2}
+    - {fileID: 11400000, guid: 42d928310953b6b44bae59305f0dfbf0, type: 2}
+    - {fileID: 11400000, guid: 001db0862edeadc44bc6734863d0aaa9, type: 2}
+    - {fileID: 11400000, guid: 2b10223b53455d042be2f27e21e1b090, type: 2}

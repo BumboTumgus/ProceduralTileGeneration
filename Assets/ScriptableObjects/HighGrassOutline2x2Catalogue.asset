@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea16573c2b4fda7489b05c2920799317, type: 3}
+  m_Name: HighGrassOutline2x2Catalogue
+  m_EditorClassIdentifier: 
+  cellTileBase2x2Sheets:
+  - {fileID: 11400000, guid: 1f9fcb059ee2231428ec9be28daf100f, type: 2}
+  - {fileID: 11400000, guid: 431ef7dd774c9ec4d833e829f2941ad6, type: 2}
+  - {fileID: 11400000, guid: b6c91015656dabc4a9a33e27a9efe307, type: 2}

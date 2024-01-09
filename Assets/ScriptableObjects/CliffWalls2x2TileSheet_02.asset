@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2220fac3b19c3c54f9a9a76205068a4d, type: 3}
+  m_Name: CliffWalls2x2TileSheet_02
+  m_EditorClassIdentifier: 
+  CellTileHeight: 2
+  Cell2x2TileBases:
+  - TileBase2x2:
+    - {fileID: 11400000, guid: ef275eb5890010948a7ddc9f8c26bec2, type: 2}
+    - {fileID: 11400000, guid: 9483e4d57331a254ea18e5571d3d9fc6, type: 2}
+    - {fileID: 11400000, guid: 6c8079673d7a66343b8ffe40d11b712d, type: 2}
+    - {fileID: 11400000, guid: cc654b5a98aa65a44ae7a50f9d6de861, type: 2}
+  - TileBase2x2:
+    - {fileID: 11400000, guid: ef275eb5890010948a7ddc9f8c26bec2, type: 2}
+    - {fileID: 11400000, guid: 9483e4d57331a254ea18e5571d3d9fc6, type: 2}
+    - {fileID: 11400000, guid: a9ad5d3e061afa646bf80984096b300a, type: 2}
+    - {fileID: 11400000, guid: a66333f7ffadc8948af3a45dea685b57, type: 2}
+  - TileBase2x2:
+    - {fileID: 11400000, guid: 44add1e34b7b4e44db44fb91b6af3362, type: 2}
+    - {fileID: 11400000, guid: 5cdb6ec17136d5f4fb354fd7c3773373, type: 2}
+    - {fileID: 11400000, guid: 6c8079673d7a66343b8ffe40d11b712d, type: 2}
+    - {fileID: 11400000, guid: cc654b5a98aa65a44ae7a50f9d6de861, type: 2}
+  - TileBase2x2:
+    - {fileID: 11400000, guid: 7d7dd3186df52204391ba62d4d46e236, type: 2}
+    - {fileID: 11400000, guid: f6cdbd5b88861bd40998b042ed8b3d13, type: 2}
+    - {fileID: 11400000, guid: 7a9433befa5d02941b9065143cb0a02c, type: 2}
+    - {fileID: 11400000, guid: 6a1a366ab6bf45447ae13bd480a3803f, type: 2}
+  - TileBase2x2:
+    - {fileID: 11400000, guid: f56621d74d51a994bbc8e79cccd2358a, type: 2}
+    - {fileID: 11400000, guid: e2de8856487b4d7489301d96d320aeec, type: 2}
+    - {fileID: 11400000, guid: 76f4b9d78ea4a374bbbf43486f6c24ac, type: 2}
+    - {fileID: 11400000, guid: c32a81445ff4fdc409bc73e9b37b3767, type: 2}

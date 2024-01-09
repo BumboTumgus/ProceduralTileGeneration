@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2220fac3b19c3c54f9a9a76205068a4d, type: 3}
+  m_Name: LowGrass2x2TileSheet_02
+  m_EditorClassIdentifier: 
+  CellTileHeight: 2
+  Cell2x2TileBases:
+  - WeightedRandomChance: 1
+    TileBase2x2:
+    - {fileID: 11400000, guid: ae6348f3ef66dc442a79a2e51944890d, type: 2}
+    - {fileID: 11400000, guid: 252f801cc51a392489589239742a13e1, type: 2}
+    - {fileID: 11400000, guid: c3c226bdb892ea944b29c74123323267, type: 2}
+    - {fileID: 11400000, guid: 06f9115ee0274a34bb49f938ef613a78, type: 2}
+  - WeightedRandomChance: 0.1
+    TileBase2x2:
+    - {fileID: 11400000, guid: a41fef18c1d1c7f41a68c35c208e130b, type: 2}
+    - {fileID: 11400000, guid: 07fadb703b9844c43adafda6de5731e3, type: 2}
+    - {fileID: 11400000, guid: 507977e40c8d2c54f9f6f1132aa36441, type: 2}
+    - {fileID: 11400000, guid: ac63be50b4f14ec469e66139507aa0dc, type: 2}
+  - WeightedRandomChance: 0.1
+    TileBase2x2:
+    - {fileID: 11400000, guid: d2032af47f8874d4caac0819946245dd, type: 2}
+    - {fileID: 11400000, guid: e6e7d9859354f154ba9e1f8bbac5b18a, type: 2}
+    - {fileID: 11400000, guid: ccd2c4111f1df864e9d8ca460d96fe76, type: 2}
+    - {fileID: 11400000, guid: f8854f04274e55546aa1bbebce721da7, type: 2}
+  - WeightedRandomChance: 0.1
+    TileBase2x2:
+    - {fileID: 11400000, guid: e58541ec03b93dc4e89f31f813c8bb7c, type: 2}
+    - {fileID: 11400000, guid: df8bc8755f6505744ad03c4cd4f300a4, type: 2}
+    - {fileID: 11400000, guid: 571bdeebf5923514aa1bc32003251c3f, type: 2}
+    - {fileID: 11400000, guid: 22eb581544a2cfc4289b6402dbe996c5, type: 2}
+  - WeightedRandomChance: 0.1
+    TileBase2x2:
+    - {fileID: 11400000, guid: a161b22c2355b3043aae8c1c82310126, type: 2}
+    - {fileID: 11400000, guid: 38125a4e8de82374ebdf7352a95ab225, type: 2}
+    - {fileID: 11400000, guid: 1965facbe02e7044199e4803204d80e7, type: 2}
+    - {fileID: 11400000, guid: bf2ccae4937cd964c933a0afe18ad6cf, type: 2}
+  - WeightedRandomChance: 0.1
+    TileBase2x2:
+    - {fileID: 11400000, guid: 496196d5daa8fed43b7a1aa1c71a1121, type: 2}
+    - {fileID: 11400000, guid: 2a2be2e8f0bd26648b16630de9f0b71e, type: 2}
+    - {fileID: 11400000, guid: 13d1da570af1e1c4bb3a8613e022a056, type: 2}
+    - {fileID: 11400000, guid: 7714b69e7401e9c4e91d9eaca119e9ce, type: 2}

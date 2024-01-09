@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2220fac3b19c3c54f9a9a76205068a4d, type: 3}
+  m_Name: CliffWalls2x2TileSheet_01
+  m_EditorClassIdentifier: 
+  CellTileHeight: 1
+  Cell2x2TileBases:
+  - TileBase2x2:
+    - {fileID: 11400000, guid: 2d75626ec0a40094797655a3d9339764, type: 2}
+    - {fileID: 11400000, guid: 94eef367cf5f3b24d847bef520cd675d, type: 2}
+    - {fileID: 11400000, guid: a846b0b0e525ceb4e9ba7c09aae84b10, type: 2}
+    - {fileID: 11400000, guid: c9786dcc499716e48b20c7d9ff3cfe56, type: 2}
+  - TileBase2x2:
+    - {fileID: 11400000, guid: 2d75626ec0a40094797655a3d9339764, type: 2}
+    - {fileID: 11400000, guid: 94eef367cf5f3b24d847bef520cd675d, type: 2}
+    - {fileID: 11400000, guid: 584f24cbd33ade546bbcd306baf640c5, type: 2}
+    - {fileID: 11400000, guid: 8607dd75e1116954bb10b441b87cb705, type: 2}
+  - TileBase2x2:
+    - {fileID: 11400000, guid: 1ad17b58bcb7bc54095bf1e3d49948fc, type: 2}
+    - {fileID: 11400000, guid: 60d30b5d5eecf63449fc98bc199e023f, type: 2}
+    - {fileID: 11400000, guid: a846b0b0e525ceb4e9ba7c09aae84b10, type: 2}
+    - {fileID: 11400000, guid: c9786dcc499716e48b20c7d9ff3cfe56, type: 2}
+  - TileBase2x2:
+    - {fileID: 11400000, guid: 1aebe161b1e9d4b4a851271961b5ade6, type: 2}
+    - {fileID: 11400000, guid: 458723f82bbd1bc41b6222b2b8f5d94e, type: 2}
+    - {fileID: 11400000, guid: f698ecd9a7e7ed444b72c7efd5bd9523, type: 2}
+    - {fileID: 11400000, guid: 49c0687b3fd45b84dac21e1b0decc85b, type: 2}
+  - TileBase2x2:
+    - {fileID: 11400000, guid: c86b5896a88a9eb4cb99edb81a6fd48f, type: 2}
+    - {fileID: 11400000, guid: a02c731e0cf5148409ef6844f2926723, type: 2}
+    - {fileID: 11400000, guid: b5b4fd670fafe1a4fb75dcacfb678880, type: 2}
+    - {fileID: 11400000, guid: 924d7e0c6a6e2d14a93987af2365695b, type: 2}
